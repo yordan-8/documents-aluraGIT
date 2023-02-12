@@ -97,12 +97,7 @@
 }
 
 
-main{
-    display: flex;
-    margin-bottom: 60px;
-    margin-left: 60px;
-    flex-wrap: wrap;
-}
+
 
 .texto-area {
     border: none;
@@ -227,12 +222,7 @@ main{
     color: black;
      }
 
-h5{
-    
-    color: rgb(19, 29, 228) ;
-    margin-left: 80px;
-    font-size: 10px;
-}
+
 
 .imput{
     background: rgb(12, 12, 174);
