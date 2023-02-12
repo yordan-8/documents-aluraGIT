@@ -123,7 +123,7 @@ main{
 
 .mensaje{
     background: rgba(41, 40, 40, 0.533);
-    background-image: url(IMAGENES/encrip5.png);
+    background-image: url(imagenes/encrip5.png);
     background-repeat: no-repeat;    
     border: none;
     border-radius: 24px;    
