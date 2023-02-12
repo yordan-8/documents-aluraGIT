@@ -226,14 +226,7 @@ main{
     border: 1px solid rgba(239, 237, 237, 0.533);
     color: black;
      }
-
-h5{
-    
-    color: rgb(19, 29, 228) ;
-    margin-left: 80px;
-    font-size: 10px;
-}
-
+     
 .imput{
     background: rgb(12, 12, 174);
     border: 1px solid rgb(9, 9, 11);
